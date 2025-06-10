@@ -26,15 +26,5 @@ Acredito no poder das **metodologias ágeis** como o Scrum para a organização 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandypsousa&icon=0&color=10)](https://visitcount.itsvg.in)
 
-## 📊 Minhas Estatísticas no GitHub:
-
-### Visão Geral do Perfil:
-![](https://github-readme-stats.vercel.app/api?username=sandypsousa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### Sequência de Contribuições:
-![](https://nirzak-streak-stats.vercel.app/?user=sandypsousa&theme=dark&hide_border=false)
-
-### Linguagens Mais Usadas:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandypsousa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
