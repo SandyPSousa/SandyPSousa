@@ -17,11 +17,17 @@ Acredito no poder das **metodologias ágeis** como o Scrum para a organização 
 ![](https://nirzak-streak-stats.vercel.app/?user=sandypsousa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandypsousa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Meu repositório mais ativo:
+![](https://github-contributor-stats.vercel.app/api?username=sandypsousa&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
+
+
+
+
 ### ✍️ Pensamento dev aleatório:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Meu repositório mais ativo:
-![](https://github-contributor-stats.vercel.app/api?username=sandypsousa&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandypsousa&icon=0&color=10)](https://visitcount.itsvg.in)
