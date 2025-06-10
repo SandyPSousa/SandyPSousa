@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/04/c8/f7/04c8f7573da731510e985602d4962687.jpg" alt="Banner Nier Automata" width="700"/>
+</p>
+
 # Olá, sou a Sandy! 👋 Bem-vindo(a) ao meu espaço no GitHub!
 # 💫 Sobre mim:
 Sou uma entusiasta da **Cybersegurança** e atualmente estou focada em aprofundar meus conhecimentos em desenvolvimento backend com **Java** e **C#**. Tenho um grande interesse em colaborar em projetos que buscam fortalecer a segurança da informação, explorando maneiras de proteger sistemas e dados.
