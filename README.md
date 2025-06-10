@@ -1,6 +1,10 @@
+# Olá, sou a Sandy! 👋 Bem-vindo(a) ao meu espaço no GitHub!
 # 💫 Sobre mim:
-Atualmente estou estudando desenvolvimento backend com Java e C#, e tenho interesse em colaborar em projetos voltados para a segurança da informação no geral. Busco apoio para aprimorar minhas práticas em segurança no desenvolvimento web e integração de sistemas. Já estudei Javascript, HTML, CSS, Python, SQL, análise de dados com Looker Studio, modelagem de dados relacionais e web scraping. Tenho interesse em metodologias ágeis como o Scrum, em desenvolvimento seguro, organização de projetos, e análise de dados. 
-Curiosidade: sou apaixonada por Cybersegurança e acho muito interessante explorar maneiras de proteger sistemas e informações.
+Sou uma entusiasta da **Cybersegurança** e atualmente estou focada em aprofundar meus conhecimentos em desenvolvimento backend com **Java** e **C#**. Tenho um grande interesse em colaborar em projetos que buscam fortalecer a segurança da informação, explorando maneiras de proteger sistemas e dados.
+
+Busco continuamente aprimorar minhas práticas em segurança no desenvolvimento web e na integração de sistemas, sempre com a mente voltada para a criação de soluções robustas. Já explorei tecnologias como **Javascript**, **HTML**, **CSS**, **Python**, **SQL**, análise de dados com **Looker Studio**, modelagem de dados relacionais e **web scraping**.
+
+Acredito no poder das **metodologias ágeis** como o Scrum para a organização de projetos eficientes, e sou apaixonada por **desenvolvimento seguro** e **análise de dados**.
 
 
 ## 🌐 Redes Sociais:
@@ -22,4 +26,15 @@ Curiosidade: sou apaixonada por Cybersegurança e acho muito interessante explor
 ---
 [![](https://visitcount.itsvg.in/api?id=sandypsousa&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 Minhas Estatísticas no GitHub:
+
+### Visão Geral do Perfil:
+![](https://github-readme-stats.vercel.app/api?username=sandypsousa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+### Sequência de Contribuições:
+![](https://nirzak-streak-stats.vercel.app/?user=sandypsousa&theme=dark&hide_border=false)
+
+### Linguagens Mais Usadas:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandypsousa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
