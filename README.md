@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/04/c8/f7/04c8f7573da731510e985602d4962687.jpg" alt="Banner Nier Automata" width="100%" height="200"/>
+  <img src="https://i.pinimg.com/736x/04/c8/f7/04c8f7573da731510e985602d4962687.jpg" alt="Banner Nier Automata" width="100%" height="600"/>
 </p>
 # Olá, sou a Sandy! 👋 Bem-vindo(a) ao meu espaço no GitHub!
 # 💫 Sobre mim:
