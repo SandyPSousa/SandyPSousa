@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
-Atualmente estou estudando desenvolvimento backend com Java e C#, com foco em colaborar em projetos voltados para a segurança da informação. Busco apoio para aprimorar minhas práticas em segurança no desenvolvimento web e integração de sistemas. Já estudei Python, SQL, análise de dados com Looker Studio, modelagem de dados relacionais e web scraping. Tenho interesse em metodologias ágeis como Scrum, desenvolvimento seguro, organização de projetos, React e análise de dados. Curiosidade: sou apaixonada por Cybersegurança e adoro explorar maneiras de proteger sistemas e informações.
+Atualmente estou estudando desenvolvimento backend com Java e C#, e tenho interesse em colaborar em projetos voltados para a segurança da informação no geral. Busco apoio para aprimorar minhas práticas em segurança no desenvolvimento web e integração de sistemas. Já estudei Javascript, HTML, CSS, Python, SQL, análise de dados com Looker Studio, modelagem de dados relacionais e web scraping. Tenho interesse em metodologias ágeis como o Scrum, em desenvolvimento seguro, organização de projetos, e análise de dados. 
+Curiosidade: sou apaixonada por Cybersegurança e acho muito interessante explorar maneiras de proteger sistemas e informações.
 
 
 ## 🌐 Redes Sociais:
