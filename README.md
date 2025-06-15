@@ -2,7 +2,7 @@
 
 # Olá, sou a Sandy! 👋 Bem-vindo(a) ao meu espaço no GitHub!
 # 💫 Sobre mim:
-Sou uma entusiasta da **Cybersegurança** e atualmente estou focada em aprofundar meus conhecimentos em desenvolvimento backend com **Java** e **C#**. Tenho um grande interesse em colaborar em projetos que buscam fortalecer a segurança da informação, explorando maneiras de proteger sistemas e dados.
+Sou uma entusiasta da **Cybersegurança** e atualmente estou focada em aprofundar meus conhecimentos em desenvolvimento backend com **Java** e **C#**. Tenho interesse em colaborar em projetos que buscam fortalecer a segurança da informação, explorando maneiras de proteger sistemas e dados.
 
 Busco continuamente aprimorar minhas práticas em segurança no desenvolvimento web e na integração de sistemas, sempre com a mente voltada para a criação de soluções robustas. Já explorei tecnologias como **Javascript**, **HTML**, **CSS**, **Python**, **SQL**, análise de dados com **Looker Studio**, modelagem de dados relacionais e **web scraping**.
 
